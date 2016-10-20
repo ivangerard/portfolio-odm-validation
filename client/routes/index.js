@@ -22,7 +22,7 @@ router.get('/signup', function(req, res, next) {
 })
 
 router.get('/questions', function(req, res, next) {
-    res.render('pages/question')
+    res.render('pages/landing')
 })
 
 
