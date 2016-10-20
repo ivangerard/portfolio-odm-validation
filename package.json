@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-odm-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:client": "cd ./client && node client.js",
+    "start:server": "cd ./server && node server.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivangerard/portfolio-odm-validation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivangerard/portfolio-odm-validation/issues"
+  },
+  "homepage": "https://github.com/ivangerard/portfolio-odm-validation#readme"
+}
